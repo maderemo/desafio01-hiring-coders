@@ -16,14 +16,14 @@ html {
 }
 
 .background-section-one {
-  background-image: url(../assets/bg.jpg);
+  background-image: url(../assets/bg2.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .background-section-two {
-  background-image: url(../assets/bg.jpg);
+  background-image: url(../assets/bg2.jpg);
   background-attachment: fixed;
   background-size: cover;
   background-repeat: no-repeat;
